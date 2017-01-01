@@ -11,8 +11,13 @@ Keyboard layout for different operating systems:
 
 ## Installation
 
-crous.map is console map 
-the rest is for X11 or Xorg. If you have decent Xorg release, layout is already
+crous.map is console map. You can usually set it by running:
+
+```
+loadkeys crous
+```
+
+The rest is for X11 or Xorg. If you have decent Xorg release, layout is already
 included - you don't have to install anything - you can just set it by:
 
 ```
