@@ -1,4 +1,6 @@
-Croatian US keyboard for Linux
+# Croatian-US-linux
+
+Croatian US keyboard (crous) for Linux.
 
 This is standard US keyboard layout where you get Croatian characters or layout by pressing AltGR (right Alt) key.
 In Linux, this keyboard is known as hr-US (in X11) or crous (in console).
